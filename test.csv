@@ -1,0 +1,11 @@
+,video_name,tag
+0,dataset/test/fallen/fall (26).mp4,fallen
+1,dataset/test/fallen/fall (27).mp4,fallen
+2,dataset/test/fallen/fall (28).mp4,fallen
+3,dataset/test/fallen/fall (29).mp4,fallen
+4,dataset/test/fallen/fall (30).mp4,fallen
+5,dataset/test/not_fallen/notfall (36).mp4,not_fallen
+6,dataset/test/not_fallen/notfall (37).mp4,not_fallen
+7,dataset/test/not_fallen/notfall (38).mp4,not_fallen
+8,dataset/test/not_fallen/notfall (39).mp4,not_fallen
+9,dataset/test/not_fallen/notfall (40).mp4,not_fallen
